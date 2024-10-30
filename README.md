@@ -1,2 +1,2 @@
 # venus
-1Futures - Personal blog
+Futures - Personal blog
